@@ -3,7 +3,7 @@ persist.vendor.camera.perfcapture=1
 
 # Havoc Stuff
 ro.havoc.device.name=Xiaomi Poco F1
-ro.havoc.group.url=https://t.me/havoc_beryllium
+ro.havoc.group.url=https://t.me/+84QjFbo592g4YmM1
 ro.havoc.maintainer=Havoc-OS CI
 ro.havoc.maintainer.username=Havoc_OS
 
